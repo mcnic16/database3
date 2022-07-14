@@ -1,4 +1,4 @@
-rom taskmanager import db
+from taskmanager import db
 
 
 class Category(db.Model):
